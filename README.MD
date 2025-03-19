@@ -7,13 +7,13 @@ A simple and flexible React hook for managing forms with validation and dynamic 
 Install the package using npm or yarn:
 
 ```sh
-npm install use-form-hook
+npm i gov-react-form-hook
 ```
 
 or
 
 ```sh
-yarn add use-form-hook
+yarn add gov-react-form-hook
 ```
 
 ---
