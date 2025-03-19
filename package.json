@@ -1,0 +1,22 @@
+{
+  "name": "gov-react-form-hook",
+  "version": "1.0.1",
+  "description": "A custom React hook for managing forms with validation",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": ["react", "hook", "form", "validation", "typescript"],
+  "author": "Govind Mishra",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "react": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.11",
+    "typescript": "^5.8.2"
+  }
+}
