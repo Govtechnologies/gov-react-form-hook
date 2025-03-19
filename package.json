@@ -12,6 +12,10 @@
   "author": "Govind Mishra",
   "license": "MIT",
   "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Govtechnologies/gov-react-form-hook"
+  },
   "dependencies": {
     "react": "^19.0.0"
   },
